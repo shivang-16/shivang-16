@@ -5,6 +5,7 @@
 <p align="left">
 <a href="https://twitter.com/@16_shivang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@16_shivang" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shivang-yadav-b83979257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivang-yadav-b83979257" height="30" width="40" /></a>
+ <a href="https://www.threads.net/@shivang_18" target="blank"><img align="center" src="https://ibb.co/g3HNwrv" alt="shivang_18" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
