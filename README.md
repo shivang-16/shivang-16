@@ -5,7 +5,7 @@
 <p align="left">
 <a href="https://twitter.com/@16_shivang" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@16_shivang" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shivang-yadav-b83979257" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivang-yadav-b83979257" height="30" width="40" /></a>
- <a href="https://shivangyadav.hashnode.dev" target="_blank"><img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png" alt="shivang_18" height="30" width="40" /></a>
+ <a href="https://shivangyadav.hashnode.dev" target="_blank"><img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" alt="shivang_18" height="30" width="40" /></a>
  <a href="https://www.threads.net/@shivang_18" target="_blank"><img align="center" src="https://www.linkpicture.com/q/thread-fotor-bg-remover-2023070902033.png" alt="shivang_18" height="30" width="40" /></a>
 </p>
 
