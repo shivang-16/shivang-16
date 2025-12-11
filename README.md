@@ -8,6 +8,8 @@
  <a href="https://shivangyadav.hashnode.dev" target="_blank"><img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" alt="shivang_18" height="30" width="30" /></a>
 </p>
 
+- ![snake gif](https://github.com/shivang-16/shivang-16/blob/main/github-user-contribution.svg)
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="typescript" width="40" height="40" /> </a>
