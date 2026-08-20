@@ -1,5 +1,11 @@
 <p>engineer</p>
 
+## Built & shipped
+
+- 🛰️ [Orbit](https://tryorbit.cloud) — one API for 50+ AI models, routing requests to the cheapest healthy provider
+- 🎬 [Choppr](https://choppr.pro) — turn long videos into viral short-form clips with AI clipping, captions, and reframing
+- 🗄️ [MoleDB](https://www.npmjs.com/package/moledb) (`npm i -g moledb`) — a fast, in-memory key-value database and cache server built in Go
+- 🪲 [Beetle](https://beetleai.dev) — an AI code reviewer that finds bugs and provides actionable, context-aware suggestions
 
 
 <!--- ![snake gif](https://github.com/shivang-16/shivang-16/blob/main/github-user-contribution.svg)
